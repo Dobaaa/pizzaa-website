@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/pizzaa-website/static/css/main.cf2f6192.css",
+    "main.js": "/pizzaa-website/static/js/main.5982aac8.js",
+    "static/js/787.e8e0fc87.chunk.js": "/pizzaa-website/static/js/787.e8e0fc87.chunk.js",
+    "static/media/03.jpg": "/pizzaa-website/static/media/03.0df4d0d0dda2d436bffc.jpg",
+    "static/media/Types-of-Pizza-removebg-preview (1).png": "/pizzaa-website/static/media/Types-of-Pizza-removebg-preview (1).a9627b8215691dfe73a0.png",
+    "static/media/Layer-1.png": "/pizzaa-website/static/media/Layer-1.27155a0c137861af48c6.png",
+    "static/media/logo.png": "/pizzaa-website/static/media/logo.eafcaba34218aa40e8eb.png",
+    "static/media/talbat1.png": "/pizzaa-website/static/media/talbat1.0d49c16a1b0f0475d294.png",
+    "static/media/pizza-4.png": "/pizzaa-website/static/media/pizza-4.b930d4140a22393a980e.png",
+    "static/media/pentola banner.jpg": "/pizzaa-website/static/media/pentola banner.75d4186b5357fbca1b32.jpg",
+    "static/media/01.jpg": "/pizzaa-website/static/media/01.1defe43a880022701c8d.jpg",
+    "static/media/pride-pizza.jpg": "/pizzaa-website/static/media/pride-pizza.84e626862f103902f88d.jpg",
+    "static/media/02.jpg": "/pizzaa-website/static/media/02.a567a9db1482b99c0fab.jpg",
+    "static/media/slider3.jpg": "/pizzaa-website/static/media/slider3.68abb7058716afdf5328.jpg",
+    "static/media/slider2.jpg": "/pizzaa-website/static/media/slider2.b3cee505872ff0132ea1.jpg",
+    "static/media/slider1.jpg": "/pizzaa-website/static/media/slider1.ec74cb5ccc8abf391567.jpg",
+    "index.html": "/pizzaa-website/index.html",
+    "main.cf2f6192.css.map": "/pizzaa-website/static/css/main.cf2f6192.css.map",
+    "main.5982aac8.js.map": "/pizzaa-website/static/js/main.5982aac8.js.map",
+    "787.e8e0fc87.chunk.js.map": "/pizzaa-website/static/js/787.e8e0fc87.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cf2f6192.css",
+    "static/js/main.5982aac8.js"
+  ]
+}
