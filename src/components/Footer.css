@@ -1,0 +1,57 @@
+.Footer {
+  background-color: #a9c3c4;
+}
+.Footer ul li {
+  list-style: none;
+  color: #fff;
+}
+
+.Footer ul {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+
+.Footer ul li a {
+  text-decoration: none;
+  color: #fff;
+  font-size: 18px;
+}
+.items {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+i:first-child {
+  color: blue;
+  cursor: pointer;
+}
+i:nth-child(2) {
+  color: #f3cfdb;
+  cursor: pointer;
+}
+i:nth-child(3) {
+  color: #54d5da;
+  cursor: pointer;
+}
+
+i:last-child {
+  color: rgb(40, 40, 252);
+  cursor: pointer;
+}
+.items i {
+  font-size: 25px;
+}
+.copy-right {
+  font-size: 18px;
+  color: #fff;
+}
+.copy-right span {
+  color: #f3cfdb;
+}
+span a {
+  color: #f3cfdb;
+  font-weight: bold;
+  text-decoration: none;
+  font-size: 20px;
+}

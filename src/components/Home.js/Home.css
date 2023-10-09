@@ -1,0 +1,389 @@
+.number {
+  opacity: 1;
+  background-image: radial-gradient(#94cacc, #f3cfdb);
+  padding: 25px 0px;
+  height: auto;
+  color: #fff;
+  text-align: center;
+  overflow: hidden;
+  font-family: "Cherry Swash", cursive;
+  font-weight: bold;
+}
+.number .row {
+  margin: 10px 0px;
+}
+.number h2 {
+  font-size: 50px;
+  font-weight: bold;
+  margin: 10px 0px;
+}
+.number h5 {
+  font-weight: bold;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+.pride {
+  padding: 35px 0px;
+  max-width: 100%;
+  height: auto;
+  overflow: hidden;
+  margin-top: 60px;
+}
+.pride .container {
+  display: flex;
+}
+.pride .row {
+  display: flex;
+}
+.pride h2 {
+  font-size: 50px;
+  font-weight: bold;
+  color: #94cacc;
+  font-family: "Cherry Swash", cursive;
+  max-width: 95%;
+}
+.pride p {
+  font-weight: bold;
+  color: #aeb2b3;
+  font-family: "Cherry Swash", cursive;
+  line-height: 40px;
+}
+.pride button {
+  text-align: center;
+  background-color: #94cacc;
+  width: 150px;
+  height: 40px;
+  transition: 0.2s ease-in-out;
+  border: 1px solid #f3cfdb;
+}
+.pride button a {
+  text-decoration: none;
+  color: #fff;
+}
+.pride button:hover {
+  background-color: transparent;
+  font-weight: bold;
+}
+.pride button:hover a {
+  color: #f3cfdb;
+}
+.pentola {
+  max-width: 90%;
+  border-radius: 10px;
+  z-index: -1;
+}
+
+.ingredients {
+  max-width: 100%;
+  overflow: hidden;
+  height: auto;
+  background-image: radial-gradient(#94cacc, #f3cfdb);
+}
+.ingredients img {
+  width: 100%;
+  border-radius: 10px;
+}
+.ingredients h2 {
+  font-size: 50px;
+  font-weight: bold;
+  color: #fff;
+  font-family: "Cherry Swash", cursive;
+}
+.ingredients p {
+  color: #5f5e5e;
+  line-height: 30px;
+
+  font-family: "Cherry Swash", cursive;
+}
+
+.ingredients ul li {
+  list-style: none;
+  color: #5f5e5e;
+  font-family: "Cherry Swash", cursive;
+}
+.ingredients button {
+  text-align: center;
+  background-color: #94cacc;
+  width: 150px;
+  height: 40px;
+  transition: 0.2s ease-in-out;
+  border-style: none;
+}
+.ingredients button a {
+  text-decoration: none;
+  color: #fff;
+  font-weight: bold;
+}
+.ingredients button:hover {
+  font-weight: bold;
+}
+.ingredients button:hover a {
+  color: #f3cfdb;
+}
+
+.story {
+  background: url("../../assets/pentola\ banner.jpg") no-repeat;
+  background-attachment: fixed;
+
+  overflow: hidden;
+  background-size: cover;
+  width: 100%;
+  height: auto;
+  position: relative;
+}
+.over-lay {
+  position: absolute;
+  width: 100%; /* Full width (cover the whole page) */
+  height: 100%; /* Full height (cover the whole page) */
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: rgba(57, 57, 57, 0.5);
+  z-index: 0;
+}
+
+.story .row {
+  position: relative;
+  z-index: 555;
+}
+.story h2 {
+  font-weight: bold;
+  color: #fff;
+  font-family: "Cherry Swash", cursive;
+  font-size: 36px;
+  width: 100%;
+}
+
+.story a {
+  color: #201f1f;
+  font-size: 20px;
+  font-family: "Cherry Swash", cursive;
+  line-height: 70px;
+  text-decoration: none !important;
+}
+.story p {
+  font-weight: bold;
+  color: #aeb2b3;
+  line-height: 32px;
+}
+/*  start blog area  */
+.blogs {
+  overflow: hidden;
+  height: auto;
+}
+.blogs h2 {
+  font-weight: bold;
+  color: #94cacc;
+  font-family: "Cherry Swash", cursive;
+  font-size: 45px;
+  width: 100%;
+  line-height: 50px;
+}
+.blogs p {
+  font-weight: bold;
+  color: #aeb2b3;
+  font-size: 16px;
+  line-height: 32px;
+}
+.blogs img {
+  max-width: 100%;
+}
+.blogs .box {
+  width: 100%;
+  max-width: 100%;
+  height: auto;
+  overflow: hidden;
+  border: 1px solid #f6f6f6;
+  border-radius: 5px;
+}
+.blogs h5 {
+  color: #94cacc;
+  font-family: "Cherry Swash", cursive;
+  font-size: 22px;
+  padding: 15px 15px 10px;
+}
+
+.blogs .box span {
+  display: block;
+  color: #444;
+  font-family: "Cherry Swash", cursive;
+  padding-left: 15px;
+  letter-spacing: 1px;
+}
+.blogs .box h6 {
+  color: #94cacc;
+  font-size: 22px;
+  padding: 15px 15px;
+  font-family: "Cherry Swash", cursive;
+}
+.blogs button {
+  width: 140px;
+  height: 40px;
+  text-align: center;
+  background-color: #94cacc;
+  border: none;
+  color: #fff;
+  font-size: 15px;
+  font-weight: bold;
+  box-sizing: border-box;
+  margin: 10px 0px;
+  transition: 0.3s ease-in-out;
+}
+
+.blogs button:hover {
+  background-color: transparent;
+  color: #94cacc;
+  border: 1px solid #94cacc;
+}
+
+/*  end  blog area  */
+
+/* slider area strat*/
+.slider {
+  background-color: #f3cfdb;
+  border: 1px solid #f3cfdb;
+  width: 100%;
+  max-width: 100%;
+  text-align: center;
+  padding: 50px 0px;
+}
+
+.slider img {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  margin-bottom: 150px;
+}
+.carousel {
+  background-color: #fff;
+  margin: 40px 0px;
+  padding: 30px;
+}
+
+@media only screen and (max-width: 992px) {
+  .carousel-caption {
+    margin: -3rem !important;
+  }
+}
+.carousel-caption p {
+  color: #5f5e5e !important;
+  font-size: 17px;
+  line-height: 30px;
+}
+.carousel-caption h5 {
+  color: #f3cfdb !important;
+  font-size: 17px;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+.slider h2 {
+  font-weight: bold;
+  color: #fff;
+  font-family: "Cherry Swash", cursive;
+  font-size: 50px;
+  width: 100%;
+}
+.carousel-indicators {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  top: 320px;
+  left: 0;
+  z-index: 2;
+  display: flex;
+  justify-content: center;
+  padding: 0;
+  margin-right: 15%;
+  margin-bottom: 1rem;
+  margin-left: 15%;
+}
+
+.carousel-indicators button {
+  width: 20px !important;
+  height: 20px !important;
+  border-radius: 50% !important;
+  background-color: #94cacc !important;
+  margin-left: 10px !important;
+}
+/* slider area end */
+
+/* asks area start*/
+.Questions h2 {
+  font-family: "Cherry Swash", cursive;
+  font-size: 50px;
+  color: #94cacc;
+  font-weight: bold;
+}
+/* asks area end */
+
+/*  start talabat area */
+.talabat {
+  background: url(../../assets/talbat1.png) center;
+  background-attachment: fixed;
+  height: 32vh;
+  position: relative;
+  width: 100%;
+  max-width: 100%;
+}
+.talabat .row {
+  z-index: 55;
+  position: relative;
+}
+.talabat h3 {
+  font-family: "Cherry Swash", cursive;
+  font-size: 40px;
+  color: #fff;
+  font-weight: bold;
+  z-index: 5;
+}
+/*  end  talabat area */
+
+/* start subscribe arae */
+.Subscribe h2 {
+  font-family: "Cherry Swash", cursive;
+  font-size: 36px;
+  color: #94cacc;
+  font-weight: bold;
+}
+
+.Subscribe input {
+  height: 50px;
+  width: 100%;
+  padding: 0 20px;
+  font-size: 14px;
+  letter-spacing: 0px;
+  font-weight: 400;
+  border-style: none;
+  border-radius: 10px;
+  background: transparent;
+  border: 3px solid #e5e5e5;
+  color: #000;
+  font-weight: 700;
+}
+
+.Subscribe button {
+  position: relative;
+  top: 0px;
+  right: 0px;
+  width: 100%;
+  font-size: 14px;
+  height: 50px;
+  text-align: center;
+  background-color: #94cacc;
+  border: 1px solid #94cacc;
+  box-sizing: border-box;
+  margin: 10px 0px;
+  border-radius: 10px;
+  transition: 0.3s ease-in-out;
+  color: #fff;
+  text-transform: uppercase;
+  font-weight: bold;
+}
+
+.Subscribe button:hover {
+  background-color: transparent;
+  color: #94cacc;
+}
+
+/* end  subscribe arae */
